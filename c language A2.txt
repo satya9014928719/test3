@@ -1,0 +1,64 @@
+1. Which of the following are real constants?
+   3, ‘A’, 4.5, 3.0, ‘+’, -25, -0.0
+Ans).In the list you provided, the real constants are:
+
+     3.0,4.5,-25,-0.0
+
+     These values are numerical constants that represent real numbers. The other elements in        the list, such as 'A' and '+', are not real constants as they do not represent numerical values.
+
+2. Which of the following are not keywords in C Language?
+Ans).
+
+auto, dynamic, static, typedef, define, enum, is, default, this, super
+
+In the C programming language, the keywords among the options you provided are:
+
+  auto,static,typedef,enum
+
+ The following are not keywords in C:
+
+   dynamic,define,is,default,this,super
+
+3.Which of the following is not a valid variable name in C language?
+
+Ans)
+To determine which of the following is not a valid variable name in the C language, let's examine each one:
+
+  my_variable, 2nd_variable, _thirdVariable, fourth Variable, another-variable
+
+In C, variable names must adhere to certain rules:
+
+They can only consist of letters (both uppercase and lowercase), digits, and underscores.
+They cannot start with a digit.
+Based on these rules, the variable name that is not valid is 2nd_variable because it starts with a digit. Variable names should begin with a letter or an underscore but not with a digit.
+
+4.Can we make a variable with the name switch? (Yes or No)
+Ans).
+ No, in C language, you cannot use the name "switch" as a variable because "switch" is a   reserved keyword used for the switch statement.
+
+
+5.Keywords are defined in the compiler or their meaning is stored in the library? in simple
+Ans).
+
+ Keywords are defined in the compiler, not in the library. The compiler recognizes and  interprets keywords based on the language specifications, and their meanings are part of the language itself, not the library.
+
+6. Where variables are created? (RAM, ROM, Secondary Storage or CPU) in simple way
+Ans).
+Variables are created in RAM (Random Access Memory) when your program runs. Think of RAM as the computer's short-term memory where data, including variables, is stored temporarily while the program is running. This is because RAM provides fast access for the CPU (Central Processing Unit) to perform operations on that data. Variables are not created in ROM (Read-Only Memory) or secondary storage like hard drives.
+
+7. Who developed C Language?
+Ans).
+C programming language was developed by Dennis Ritchie at Bell Labs in the early 1970s. Dennis Ritchie, along with Ken Thompson, contributed significantly to the development of the Unix operating system as well, which played a crucial role in the early days of computing.
+
+8. When was the C language developed?
+Ans).
+The C programming language was developed in the early 1970s. Specifically, it was created by Dennis Ritchie at Bell Labs between 1972 and 1973.
+
+9. What is the name of the operating system which is responsible for the inception of
+the C language?
+Ans).
+The C programming language was developed on the Unix operating system.
+
+10. Whether C language is a high level or low level programming language? in simple words
+Ans).
+C is often considered a high-level programming language. It's designed to be human-readable and provides a good level of abstraction from the underlying hardware, making it easier for programmers to write and understand code. However, it still allows for low-level operations when needed, providing a balance between high-level and low-level languages.
